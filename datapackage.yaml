@@ -1,4 +1,6 @@
 profile: data-package
+name: treinamento-dados-abertos
+owner_org: controladoria-geral-do-estado-cge
 resources:
   - dialect:
       delimiter: ;
