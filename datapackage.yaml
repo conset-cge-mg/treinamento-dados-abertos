@@ -14,14 +14,18 @@ resources:
       fields:
         - name: data
           type: string
+          description: Incluir aqui uma descrição para o campo
         - name: assunto
           type: string
+          description: Incluir aqui uma descrição para o campo
         - name: classificacao
           type: string
+          description: Incluir aqui uma descrição para o campo
         - name: link
           type: string
+          description: Incluir aqui uma descrição para o campo
           format: uri
         - name: descricao
           type: string
+          description: Incluir aqui uma descrição para o campo
     scheme: file
-
