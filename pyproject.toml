@@ -1,0 +1,4 @@
+[tool.taskipy.tasks]
+datapackage-json = { cmd = "frictionless describe datapackage.yaml --type package --json > datapackage.json", help = "Converte datapackage.yaml em datapackage.json." }
+dataset-update= { cmd = "dpckan --datastore dataset update", help = "Atualiza CKAN." }
+validate= { cmd = "frictionless validate datapackage.json", help = "Valida datapackage.json." }
