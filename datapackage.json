@@ -11,30 +11,31 @@
       "format": "csv",
       "hashing": "md5",
       "name": "data",
+      "title": "Treinamento Dados Abertos",
       "path": "data.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "name": "data",
+            "name": "Decisao",
             "type": "string"
           },
           {
-            "name": "assunto",
+            "name": "Descricao",
             "type": "string"
           },
           {
-            "name": "classificacao",
+            "name": "Assunto",
             "type": "string"
           },
           {
-            "name": "link",
+            "name": "Data",
+            "type": "date"
+          },
+          {
+            "name": "Ata",
             "type": "string",
             "format": "uri"
-          },
-          {
-            "name": "descricao",
-            "type": "string"
           }
         ]
       },

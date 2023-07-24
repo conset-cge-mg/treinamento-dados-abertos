@@ -1,5 +1,6 @@
-data;assunto;classificacao;link;descricao
-02/01/2023;Assunto teste 1;Classificação 1;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/;Descrição 1
-02/02/2023;Assunto teste 2;Classificação 1;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/;Descrição 2
-02/03/2023;Assunto teste 3;Classificação 1;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/;Descrição 3
-02/04/2023;Assunto teste 4;Classificação 1;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/;Descrição 4
+Decisao;Descricao;Assunto;Data;Ata
+PARTICIPAÇÃO DE SERVIDOR PÚBLICO EM EMPRESA PARTICULAR;Descricao1;Assunto1;2020-02-04;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/
+DENÚNCIAS DE ASSÉDIO MORAL E APLICAÇÃO DE PRAZOS PROCESSUAIS;Descricao2;Assunto2;2020-02-04;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/
+PRAZOS PARA CUMPRIMENTO DE SOLICITAÇÃO FEITA PELO CONSET;Descricao3;Assunto3;2020-03-31;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/
+DISTRIBUIÇÃO DE PROCESSOS;Descricao4;Assunto4;2020-03-31;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/
+CONFLITO DE INTERESSES DE AGENTE PÚBLICO QUE PARTICIPA EM EMPRESA PRIVADA E POSSUI RELAÇÃO DE PARENTESCO COM DETENTOR DE MANDATO ELETIVO;Descricao5;Assunto5;2020-05-05;https://transparencia-mg.github.io/work-stefanini/0.7/atas_de_reuniao/20221121_configuracoes_inicial_documentacao_windows/

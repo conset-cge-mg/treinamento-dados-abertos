@@ -8,24 +8,20 @@ resources:
     format: csv
     hashing: md5
     name: data
+    title: Treinamento Dados Abertos
     path: data.csv
     profile: tabular-data-resource
     schema:
       fields:
-        - name: data
+        - name: Decisao
           type: string
-          description: Incluir aqui uma descrição para o campo
-        - name: assunto
+        - name: Descricao
           type: string
-          description: Incluir aqui uma descrição para o campo
-        - name: classificacao
+        - name: Assunto
           type: string
-          description: Incluir aqui uma descrição para o campo
-        - name: link
+        - name: Data
+          type: date
+        - name: Ata
           type: string
-          description: Incluir aqui uma descrição para o campo
           format: uri
-        - name: descricao
-          type: string
-          description: Incluir aqui uma descrição para o campo
     scheme: file
